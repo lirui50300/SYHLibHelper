@@ -1,0 +1,16 @@
+PODS:
+  - SYHLibHelper (0.1.0)
+
+DEPENDENCIES:
+  - SYHLibHelper (from `../`)
+
+EXTERNAL SOURCES:
+  SYHLibHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYHLibHelper: 54678efdc39a855fd19571cf175a1ccd0d7c8a72
+
+PODFILE CHECKSUM: 5916e77c260bf8661a902b03bf95e98ef8af57fa
+
+COCOAPODS: 1.9.1

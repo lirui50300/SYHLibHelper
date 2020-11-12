@@ -1,0 +1,22 @@
+{
+  "name": "SYHLibHelper",
+  "version": "0.1.0",
+  "summary": "A short description of SYHLibHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/510656172@qq.com/SYHLibHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "510656172@qq.com": "cusc_admin/menglong"
+  },
+  "source": {
+    "git": "https://github.com/510656172@qq.com/SYHLibHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SYHLibHelper/Classes/**/*"
+}

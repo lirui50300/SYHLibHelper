@@ -1,0 +1,6 @@
+framework module SYHLibHelper {
+  umbrella header "SYHLibHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
